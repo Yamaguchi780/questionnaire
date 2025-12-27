@@ -1,0 +1,14 @@
+# generated
+/output/
+/tmp/
+
+# input CSVs (do not push)
+/input/**/*.csv
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+
